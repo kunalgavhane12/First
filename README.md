@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 I'm
-Full Stack Solution Architect
+Embbeded Enginner
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites.
 
 ![Visitor Count](https://profile-counter.glitch.me/kunal1454/count.svg)
